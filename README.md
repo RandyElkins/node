@@ -1,3 +1,4 @@
+<!-- I'm just a beginning coder going thru a GitHub exercise right now, so please disregard this change to the README.md file. Thank you. -->
 <!--lint disable no-literal-urls-->
 <p align="center">
   <a href="https://nodejs.org/">
